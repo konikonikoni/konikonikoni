@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @konikonikoni
 - 👀 I’m interested in almost every programming language
-- 🌱 I’m currently learning python, c++, php
+- 🌱 I’m currently learning python, c++, php, java
 - 💞️ I’m looking to collaborate on whatever
 
 <!---
